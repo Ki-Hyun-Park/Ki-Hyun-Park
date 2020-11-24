@@ -1,4 +1,10 @@
-### Hi Everyone! 👋 Welcome to Ki Hyun Park's Github Profile
+### Hi Everyone! 👋 Welcome to Ki Hyun Park's Github page
+
+- 🌱 I’m currently a Junior Data Scientist
+- 🔭 I’m currently working on projects related to Data Science
+
+### Languages and Tools:
+
 
 
 
