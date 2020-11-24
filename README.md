@@ -5,7 +5,7 @@
 
 ### Languages and Tools:
 
-<img src="https://user-images.githubusercontent.com/74960356/100103252-fd5bcc80-2ea7-11eb-93e6-51ddc07dac37.png" width="250" heigh="250" />
+<img src="https://user-images.githubusercontent.com/74960356/100103252-fd5bcc80-2ea7-11eb-93e6-51ddc07dac37.png" width="50" heigh="50" />
 
 
 
