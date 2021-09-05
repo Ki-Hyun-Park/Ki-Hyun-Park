@@ -1,7 +1,7 @@
 ### Hi Everyone! 👋 Welcome to Ki Hyun Park's GitHub page
 
 - 🔭 I’m currently taking a path that is different from data analysis
-- 🌱 I used to be a Junior Data Analyst
+- 🌱 I'm a former data analyst
 
 ### Languages and Tools:
 
