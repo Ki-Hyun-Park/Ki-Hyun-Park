@@ -1,7 +1,7 @@
 ### Hi Everyone! 👋 Welcome to Ki Hyun Park's GitHub page
 
-- 🔭 I’m a junior data analyst.
-- 🌱 I hope to gain more experience in data analysis/science field.
+- 🔭 I plan to work in data marketing field.
+- 🌱 I hope to gain more experience in data analysis and marketing.
 
 ### Languages and Tools:
 
