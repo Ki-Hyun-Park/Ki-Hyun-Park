@@ -1,6 +1,6 @@
 ### Hi Everyone! 👋 Welcome to Ki Hyun Park's GitHub page
 
-- 🌱 I hope to gain more experience in sales/business strategy/data analysis.
+- 🌱 I hope to gain more experience in sales and corporate strategy.
 
 ### Languages and Tools:
 
