@@ -1,7 +1,6 @@
 ### Hi Everyone! 👋 Welcome to Ki Hyun Park's GitHub page
 
-- 🔭 I plan to work in data related field.
-- 🌱 I hope to gain more experience in sales/marketing/data analysis.
+- 🌱 I hope to gain more experience in sales/business strategy/data analysis.
 
 ### Languages and Tools:
 
