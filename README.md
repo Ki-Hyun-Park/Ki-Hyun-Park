@@ -1,7 +1,5 @@
 ### Hi Everyone! 👋 Welcome to Ki Hyun Park's GitHub page
 
-- 🌱 I hope to gain more experience in analytics and sales.
-
 ### Languages and Tools:
 
 <img align="left" src="https://user-images.githubusercontent.com/74960356/100109942-b8d42f00-2eaf-11eb-8012-f08cc82e3d2b.jpg" width="150" height="80" />
